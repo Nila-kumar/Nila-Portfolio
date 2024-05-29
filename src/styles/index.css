@@ -2,8 +2,8 @@ body {
     background-image: url('../../public/images/background.jpg');
     background-size: cover;
 }
-.shade {
+/* .shade {
     background-color : rgba(0,0,0,0.7);
     height: 110vh;
     margin-top: -24px;
-}
+} */
