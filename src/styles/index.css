@@ -3,5 +3,7 @@ body {
     background-size: cover;
 }
 .shade {
-    background: #fff;
+    background-color : rgba(0,0,0,0.7);
+    height: 110vh;
+    margin-top: -24px;
 }
